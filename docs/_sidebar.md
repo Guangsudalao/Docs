@@ -1,3 +1,3 @@
-* **入门**
-* * [引入](README.md)
+* **Main**
+* * [README](README.md)
   * [党史](dangshi.md)
