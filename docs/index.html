@@ -19,8 +19,16 @@
       coverpage: true
       plugins: [
         EditOnGithubPlugin.create(
-          'https://github.com/guangsudalao/docs/blob/master/docs/'
-        ),
+          'https://github.com/guangsudalao/docs/blob/master/docs/',
+          null,
+          function(file) {
+            if (file.indexOf('en') === -1) {
+              return '编辑'
+            } else {
+              return 'Edit on Github'
+            }
+          }
+        )
       ]
     }
   </script>
