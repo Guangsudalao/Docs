@@ -1,3 +1,3 @@
 # Homepage
 
-> Hello world.
+> [党史](dangshi.md)
