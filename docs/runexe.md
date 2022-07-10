@@ -5,4 +5,4 @@
 
 ## 下载地址：
 > [这里是直链](https://file.dlya.top/api/raw/?path=/app/信息课工具包.zip "这里是直链") <p>
-[这里是备用直链](https://pan.dlya.top/s/rLs1 "这里是备用直链") <p>
+[这里是备用直链](https://pan.dlya.top/s/ZxCN "这里是备用直链") <p>
